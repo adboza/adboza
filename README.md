@@ -61,7 +61,7 @@
 </ul>
 
 ## How to reach me
-<a href="https://www.linkedin.com/in/adboza/">
+<a href="https://www.linkedin.com/in/adboza/?locale=en_US">
   <img src="https://img.shields.io/badge/-adboza-blue?style=flat&logo=Linkedin&logoColor=white" alt="Adriana Boza LinkedIn Badge"/>
 </a>
 
