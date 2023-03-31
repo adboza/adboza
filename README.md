@@ -1,7 +1,7 @@
 # Adriana Boza - Full Stack Developer
 <p>Hi, I’m Adriana Boza!</p>
 <p>I come from the industrial area and am in a career transition to Full Stack Developer. </p>
-  <p>Intensely dedicated to Ruby on Rails,  JavaScript, HTML , CSS .</p>
+  <p>Intensely dedicated to Ruby on Rails,  Java, JavaScript, HTML , CSS .</p>
   <p>I am an agile framework's enthusiast and always looking for courses to improve my soft skills.</p>
   <p>You can check out what I'm currently doing at: 
       <a href="https://trello.com/b/veBsJjhu/my-journey-as-a-new-programmer">
@@ -11,7 +11,8 @@
 
 ## Main languages, tools and technologies
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" title="Rails" alt="Rails" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rspec/rspec-original-wordmark.svg" title="RSpec" alt="RSpec" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
