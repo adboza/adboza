@@ -1,13 +1,5 @@
 # Adriana Boza - Full Stack Developer
-<p>Hi, I’m Adriana Boza!</p>
-<p>I come from the industrial area and am in a career transition to Full Stack Developer. </p>
-  <p>Intensely dedicated to Ruby on Rails,  Java, JavaScript, HTML , CSS .</p>
-  <p>I am an agile framework's enthusiast and always looking for courses to improve my soft skills.</p>
-  <p>You can check out what I'm currently doing at: 
-      <a href="https://trello.com/b/veBsJjhu/my-journey-as-a-new-programmer">
-      <img src="https://img.shields.io/badge/Trello-blueviolet?style=for-the-badge&logo=trello&logoColor=white" alt="Trello Badge" height="20"/>
-    </a> </p>
-  <img src="https://komarev.com/ghpvc/?username=adboza&style=flat-square&color=blue" alt=""/>
+
 
 ## Main languages, tools and technologies
 <div>
